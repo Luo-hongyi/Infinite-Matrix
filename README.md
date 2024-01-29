@@ -1,4 +1,4 @@
 # Infinite Matrix
 A first-person game that continues indefinitely
 
-![[capture.png]]
+![Example Image](capture.png)
